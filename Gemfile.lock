@@ -46,10 +46,6 @@ GEM
     bootstrap-will_paginate (0.0.10)
       will_paginate
     builder (3.2.2)
-    byebug (3.4.0)
-      columnize (~> 0.8)
-      debugger-linecache (~> 1.2)
-      slop (~> 3.6)
     carrierwave (0.10.0)
       activemodel (>= 3.2.0)
       activesupport (>= 3.2.0)
@@ -65,9 +61,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.8.0)
-    columnize (0.8.9)
     debug_inspector (0.0.2)
-    debugger-linecache (1.2.0)
     erubis (2.7.0)
     excon (0.41.0)
     execjs (2.2.2)
@@ -100,7 +94,7 @@ GEM
     formatador (0.2.5)
     globalid (0.3.0)
       activesupport (>= 4.1.0)
-    guard (2.9.0)
+    guard (2.10.0)
       formatador (>= 0.2.4)
       listen (~> 2.7)
       lumberjack (~> 1.0)
@@ -250,7 +244,6 @@ DEPENDENCIES
   bcrypt (= 3.1.7)
   bootstrap-sass (= 3.2.0.0)
   bootstrap-will_paginate (= 0.0.10)
-  byebug (= 3.4.0)
   carrierwave (= 0.10.0)
   coffee-rails (= 4.0.1)
   faker (= 1.4.2)
