@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Home | Ruby on Rails Tutorial Sample App</title>
+    <title><%= full_title(yield(:title)) %></title>
   </head>
-<% provide(:title, "Home") %>
+#<% provide(:title, "Home") %>
   <body>
    
     <h1>Sample App</h1>
