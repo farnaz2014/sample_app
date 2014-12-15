@@ -1,1 +1,4 @@
-# empty
+farnaz:
+  name: Farnaz Sadeghi
+  email: farnaz@example.com
+  password_digest: <%= User.digest('password') %>
