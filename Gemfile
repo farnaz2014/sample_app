@@ -18,6 +18,7 @@ gem 'sprockets'
 gem 'turbolinks',              '2.3.0'
 gem 'jbuilder',                '2.2.3'
 gem 'arel',                    '6.0.0.beta2'
+"gem 'spree',                  '1.3.2'" 
 gem 'rb-readline',             '0.5.1'
 gem 'sdoc',                    '0.4.0', group: :doc
 
